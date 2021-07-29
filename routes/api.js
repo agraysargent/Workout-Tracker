@@ -27,7 +27,7 @@ router.put("/api/workout/:id", ({ body, params }, res) => {
     });
 });
 
-router.get("/api/workout/range", (req, res) => {
+router.get("/api/workouts/range", (req, res) => {
   Workout.find({})
     .limit(10)
     .then((dbWorkout) => {
