@@ -12,7 +12,7 @@ router.post("/api/workout"),
       });
   };
 
-router.put("/api/workouts/:id", ({ body, params }, res) => {
+router.put("/api/workout/:id", ({ body, params }, res) => {
   console.log(body);
   Workout.findByIDAndUpdate(
     params.id,
