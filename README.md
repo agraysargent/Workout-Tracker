@@ -33,6 +33,8 @@ Angelica Sargent
 # Screenshot
 
 ![Screenshot](public/assets/images/screenshot.png)
+![Screenshot](public/assets/images/screenshot2.png)
+![Screenshot](public/assets/images/screenshot3.png)
 
 # Link
 
