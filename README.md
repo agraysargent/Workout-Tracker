@@ -8,6 +8,8 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 
 # Considerations
 
+Ensuring that buttons and data are being saved appropriately on your application.
+
 # Acceptance Criteria
 
 When the user loads the page, they should be given the option to create a new workout or continue with their last workout.
